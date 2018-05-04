@@ -202,7 +202,7 @@ void loop()
   Der.write(De+0);
   Bas.write(Ba+0);
   Gar.write(Ga+0);
-  delay(999999);
+  delay(1000);
   
   
   /*   C   A   M   B   I   O   PASOS*/
